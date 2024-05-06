@@ -62,7 +62,7 @@ Open the index.js file in your preferred code editor.
 Fill in the required API credentials, region, date range, and output format at the top of the code.
 </br></br>
 💥 Execute the Script </br>
-Run the script by executing node getPatchOSInstallations.js in your terminal.
+Run the script by executing "node getPatchOSInstallations.js" in your terminal.
 The tool will fetch data from the NinjaOne API and generate reports based on your specified settings.
 </br></br>
 
