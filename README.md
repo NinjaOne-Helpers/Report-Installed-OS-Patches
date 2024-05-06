@@ -75,7 +75,8 @@ The tool generates a CSV file for each organization, containing details of insta
 Each CSV file is named after the respective organization.
 The CSV file includes columns for organization name, patch status, installation timestamp, device ID, timestamp, and KB number.
 </br></br>
-PDF Output: If PDF output is chosen, the tool generates a PDF report for each organization.
+PDF Output:</br>  
+If PDF output is chosen, the tool generates a PDF report for each organization.
 Similar to CSV, each PDF file is named after the organization.
 The PDF report presents the same information as the CSV but in a formatted table within the document.
 </br></br>
